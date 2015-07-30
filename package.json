@@ -1,0 +1,15 @@
+{
+  "name": "chatdevf",
+  "version": "1.0.0",
+  "description": "Chat hecho en el batch 5 con node y socketio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devf",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.1",
+    "socket.io": "^1.3.6"
+  }
+}
